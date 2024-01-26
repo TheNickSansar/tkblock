@@ -1,3 +1,5 @@
 +URL:https://www.youtube*
 +URL:http://www.youtube*
 +URL:https://youtu.be*
++URL:*youtube.com*
++URL:*youtu.be.com*
