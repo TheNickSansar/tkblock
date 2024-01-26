@@ -2,3 +2,4 @@ URL:*www.google.com*
 URL:*youtube.com*
 URL:*youtu.be*
 URL:homepage
+URL:*homepage*
