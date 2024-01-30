@@ -3,3 +3,4 @@
 +URL:https://youtu.be*
 +URL:*youtube.com*
 +URL:*youtu.be.com*
+-URL:https://alpha.vidstore.com*
