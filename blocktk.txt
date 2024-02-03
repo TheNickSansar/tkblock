@@ -4,3 +4,4 @@
 +URL:*youtube.com*
 +URL:*youtu.be.com*
 -URL:https://alpha.vidstore.com*
++URL:https://www.twitch.tv*
