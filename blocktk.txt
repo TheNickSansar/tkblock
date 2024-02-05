@@ -3,6 +3,7 @@
 +URL:*https://youtu.be*
 +URL:*youtube.com*
 +URL:*youtu.be.com*
++URL:*youtu.be*
 -URL:https://alpha.vidstore.com*
 +URL:*https://www.twitch.tv*
 +URL:*twitch.tv*
