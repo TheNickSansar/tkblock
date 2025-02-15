@@ -11,3 +11,4 @@
 +URL:*www.twitch.tv*
 +URL:https://soundcloud.com*
 +URL:https://soundcloud.com/*
++URL:*soundcloud.com*
