@@ -10,3 +10,4 @@
 +URL:twitch.tv*
 +URL:*www.twitch.tv*
 +URL:https://soundcloud.com*
++URL:https://soundcloud.com/*
