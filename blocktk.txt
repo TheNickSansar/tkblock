@@ -13,3 +13,4 @@
 +URL:https://soundcloud.com/*
 +URL:*soundcloud.com*
 +URL:soundcloud.com*
+-USER:banexample-1345
