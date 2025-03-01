@@ -14,4 +14,7 @@
 +URL:*soundcloud.com*
 +URL:soundcloud.com*
 -USER:banexample-1345
++URL:*http://virtualworldsystems.com:8080/livestream1.html*
++URL:*http://virtualworldsystems.com:8080/livestream1.html
++URL:http://virtualworldsystems.com:8080/livestream1.html*
 +URL:http://virtualworldsystems.com:8080/livestream1.html
