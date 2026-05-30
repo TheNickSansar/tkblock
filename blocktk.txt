@@ -21,3 +21,4 @@
 +URL:https://nicci-sansar.my.canva.site/*
 +URL:https://nicci-sansar.my.canva.site/dahlgfl-weq
 +URL:https://nicci-sansar.my.canva.site/dahlgfl-weq*
++URL:https://gyazo.com/*
